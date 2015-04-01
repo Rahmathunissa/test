@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.5/template-install.dtd">
+<install version="2.5" type="template">
+	<name>Cambridge Software HTML5 Boilerplate</name>
+	<creationDate>1 January 2012</creationDate>
+	<author>Cambridge Software</author>
+	<authorEmail>cambridgesoftware@gmail.com</authorEmail>
+	<authorUrl>http://cambridgesoftware.co.uk/</authorUrl>
+	<copyright>Copyright (C) 2012 Open Source Matters, Inc. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<version>1.0</version>
+	<description>Cambridge Software HTML5 Boilerplate Template</description>
+
+</install>
